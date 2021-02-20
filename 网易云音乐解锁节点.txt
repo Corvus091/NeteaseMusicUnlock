@@ -1,0 +1,2 @@
+[server_remote]
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=网易云音乐解锁
